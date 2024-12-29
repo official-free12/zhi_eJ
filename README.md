@@ -1,0 +1,6 @@
+# 直销直销计划/静态分红/推荐奖/见点奖/报单奖/对碰奖/商务中心
+
+直销直销计划/静态分红/推荐奖/见点奖/报单奖/对碰奖/商务中心<br>一加盟费<br>初级会员:3600元<br>中级会员:10800元<br>高级会员:36000元<br>注册时，可选套餐<br>二：静态分红<br>初级会员:20元/天<br>中级会员:60元/天<br>高级会员:200元/天<br>说明：返90天截止<br>三：推荐奖<br>初级：1代1%，2代2%，3代3%<br>中级：1代2%，2代4%，3代8%<br>高级：1代3%，2代6%，3代9%<br>四：对碰奖（1：1）<br>初级 8% ， 5000元封顶<br>中级 10%， 15000元封顶<br>高级 12%， 50000元封顶<br>五：代数奖：10%（对碰奖的百分比）<br>初级拿3代<br>中级拿5代<br>高级拿8代<br>注:推荐1人拿1代推荐2人拿2代...拿8代.<br>六：感恩奖<br>拿上1代管理津贴加权的5%<br>七：见点奖<br>见点奖5%<br>初级：享受3代<br>中级：享受6代<br>高级：享受9代<br>八：**奖<br>初级拿3代静态分红的5%<br>中级拿5代静态分红的10%<br>高级拿8代静态分红的15%<br>九：重复消费<br>从会员总收入中，扣取30%自动转为会员积分，不可提现，只能购买产品<br>十：扣税5%<br>十一：内部购物：每次购物，搭配消费电子币70%+会员积分30% ，单一币种不能购物。<br>十二：报单奖10%，报单中心为前台申请，后台开通。<br>十三：基本功能：自助扣电子币激活、秒结，互转币。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/COtwS" style="color: red;">https://mega-file.org/COtwS</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
